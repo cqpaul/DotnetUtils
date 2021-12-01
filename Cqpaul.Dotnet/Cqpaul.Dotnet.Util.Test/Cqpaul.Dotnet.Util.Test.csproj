@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Cqpaul.Dotnet.Util\Cqpaul.Dotnet.Util.csproj" />
+  </ItemGroup>
+
 </Project>
