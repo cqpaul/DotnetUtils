@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="ICSharpCode.SharpZipLib.dll" Version="0.85.4.369" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
   </ItemGroup>
 
 </Project>
