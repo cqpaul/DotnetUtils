@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{94CCE101-A22
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{5F31262F-5C23-4D3E-A42B-3644071B0838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqpaul.Dotnet.Util", "Cqpaul.Dotnet.Util\Cqpaul.Dotnet.Util.csproj", "{9D0A474D-9D2C-4DBB-A5B5-B4962A9DB7BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cqpaul.Dotnet.Util", "Cqpaul.Dotnet.Util\Cqpaul.Dotnet.Util.csproj", "{9D0A474D-9D2C-4DBB-A5B5-B4962A9DB7BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqpaul.Dotnet.Util.Test", "Cqpaul.Dotnet.Util.Test\Cqpaul.Dotnet.Util.Test.csproj", "{A3F144AB-60E6-41DF-BF2A-01211C19791F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cqpaul.Dotnet.Util.Test", "Cqpaul.Dotnet.Util.Test\Cqpaul.Dotnet.Util.Test.csproj", "{A3F144AB-60E6-41DF-BF2A-01211C19791F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
