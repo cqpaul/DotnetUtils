@@ -11,6 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cqpaul.Dotnet.Util", "Cqpau
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cqpaul.Dotnet.Util.Test", "Cqpaul.Dotnet.Util.Test\Cqpaul.Dotnet.Util.Test.csproj", "{A3F144AB-60E6-41DF-BF2A-01211C19791F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{D9D8CD92-61DB-4D9A-AC52-8DE7A245EE8A}"
+	ProjectSection(SolutionItems) = preProject
+		tiandimap.js = tiandimap.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +37,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9D0A474D-9D2C-4DBB-A5B5-B4962A9DB7BB} = {94CCE101-A22B-4738-9ADB-DEF6F42B796D}
 		{A3F144AB-60E6-41DF-BF2A-01211C19791F} = {5F31262F-5C23-4D3E-A42B-3644071B0838}
+		{D9D8CD92-61DB-4D9A-AC52-8DE7A245EE8A} = {94CCE101-A22B-4738-9ADB-DEF6F42B796D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2FDEF2E1-5C92-41FE-8BB4-7A025B9D8EC8}
